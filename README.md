@@ -16,7 +16,8 @@
 ![](https://komarev.com/ghpvc/?username=reachBorinhun&color=red&style=for-the-badge)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/mygif.gif](https://github.com/reachBorinhun/reachBorinhun/blob/main/black-man-crying-cry.gif" width="300"/>
+  <img src="https://github.com/reachBorinhun/reachBorinhun/blob/main/black-man-crying-cry.gif?raw=true" width="300"/>
 </p>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
