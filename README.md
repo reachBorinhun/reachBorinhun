@@ -1,7 +1,7 @@
-![](https://komarev.com/ghpvc/?username=reachBorinhun&color=red&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=reach.borin&color=red&style=for-the-badge)
 
 <p align="center">
-  <img src="https://github.com/reachBorinhun/reachBorinhun/blob/main/black-man-crying-cry.gif?raw=true" width="300"/>
+  <img src="https://github.com/reach.borin/reach.borin/blob/main/black-man-crying-cry.gif?raw=true" width="300"/>
 </p>
 
 # 💻 Tech Stack:
@@ -28,12 +28,20 @@
   <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/shopify/shopify-original.svg" height="60" alt="shopify logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Liquid-000000?style=for-the-badge&logo=shopify&logoColor=95BF47" height="60" alt="liquid badge" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo" />
 </div>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=reachBorinhun&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=reachBorinhun&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-![](https://nirzak-streak-stats.vercel.app/?user=reachBorinhun&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=reach.borin&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=reach.borin&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://nirzak-streak-stats.vercel.app/?user=reach.borin&theme=dark&hide_border=false)
 
 ---
 
