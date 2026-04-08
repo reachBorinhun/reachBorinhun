@@ -36,11 +36,6 @@
   <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo" />
 </div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=reachBorinhun&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=reachBorinhun&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-![](https://nirzak-streak-stats.vercel.app/?user=reachBorinhun&theme=dark&hide_border=false)
-
 ---
 
 ## 🌐 Socials:
